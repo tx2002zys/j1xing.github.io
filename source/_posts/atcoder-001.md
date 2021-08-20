@@ -21,7 +21,7 @@ comment:
 >$ 1 ≤ k ≤ n ≤ 10^{5}$
 > $0 < a_{1} < a_{2}< ... < L ≦ 10^{9}$所有的输入都是整数。
 ---
-#### 二分(最小值最大化)
+#### 二分(最小值最大化问题)
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
