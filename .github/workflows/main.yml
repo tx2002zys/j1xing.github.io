@@ -19,6 +19,6 @@ jobs:
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with: 
-          SSH_PRIVATE: ${{ secrets.SSH_PRIVATE }}
+          SSH: ${{ secrets.SSH_PRIVATE }}
           BRANCH: master
           FOLDER: public
