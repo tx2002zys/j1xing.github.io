@@ -9,8 +9,12 @@ index_img:
 banner_img: 
 comment: 
 ---
-![](/images/hh.jpg)
+![](/images/nm.jpg)
 
-hhhhhh
+hhhhh
 
-{% asset_img /source/images/pp.jpg %}
+{% asset_img /source/images/nm.jpg %}
+hh
+![](nm.jpg)
+h
+{% asset_img /images/nm.jpg}
