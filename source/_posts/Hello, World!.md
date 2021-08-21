@@ -11,6 +11,6 @@ comment:
 ---
 ![](/images/hh.jpg)
 
-hhhhh
+hhhhhh
 
-{% asset_img /images/pp.jpg %}
+{% asset_img /source/images/pp.jpg %}
