@@ -9,6 +9,6 @@ index_img:
 banner_img: 
 comment: 
 ---
-{% asset_img 123.jpg %}
+{% asset_img /images/hh.jpg %}
 
 hhhh
