@@ -9,5 +9,5 @@ index_img:
 banner_img:
 comment:
 ---
-![](/test/head.jpg)
+{% asset_img head.jpg %}
 hello world
