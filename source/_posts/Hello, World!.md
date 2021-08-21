@@ -1,5 +1,5 @@
 ---
-title: Hello, World!
+title: test
 subtitle:
 date:
 categories: 
@@ -10,11 +10,4 @@ banner_img:
 comment: 
 ---
 ![](/images/nm.jpg)
-
-hhhhh
-
-{% asset_img /source/images/nm.jpg %}
-hh
-![](nm.jpg)
-h
-{% asset_img /images/nm.jpg}
+Hello, World!
