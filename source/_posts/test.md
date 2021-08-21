@@ -1,6 +1,5 @@
 ---
-{}
-title:
+title: test
 subtitle:
 date:
 categories:
