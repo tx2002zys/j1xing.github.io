@@ -12,3 +12,5 @@ comment:
 ![](/images/hh.jpg)
 
 hhhh
+
+{% asset_img /images/pp.jpg %}
